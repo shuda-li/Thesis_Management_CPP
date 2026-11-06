@@ -1,0 +1,34 @@
+{
+  "json.hpp": {
+    "url": "https://raw.githubusercontent.com/nlohmann/json/v3.11.3/single_include/nlohmann/json.hpp",
+    "sha256": "9bea4c8066ef4a1c206b2be5a36302f8926f7fdc6087af5d20b417d0cf103ea6"
+  },
+  "httplib.h": {
+    "url": "https://raw.githubusercontent.com/yhirose/cpp-httplib/v0.18.3/httplib.h",
+    "sha256": "a0a0c13dc086663863dbe6730a19716f7d3744904b6205496e8301750814dbd5"
+  },
+  "picosha2.h": {
+    "url": "https://raw.githubusercontent.com/okdshin/PicoSHA2/master/picosha2.h",
+    "sha256": "b13c180161ffac8d0adc81e033e493c409457c4d1258ab9781ac80579ba3bdd8"
+  },
+  "LICENSE-json.txt": {
+    "url": "https://raw.githubusercontent.com/nlohmann/json/v3.11.3/LICENSE.MIT",
+    "sha256": "86b998c792894ccb911a1cb7994f7a9652894e7a094c0b5e45be2f553f45cf14"
+  },
+  "LICENSE-httplib.txt": {
+    "url": "https://raw.githubusercontent.com/yhirose/cpp-httplib/v0.18.3/LICENSE",
+    "sha256": "4b45cbe16d7b71b89ae6127e26e0d90a029198ca5e958ad8e3d0b8bbed364d8b"
+  },
+  "LICENSE-picosha2.txt": {
+    "url": "https://raw.githubusercontent.com/okdshin/PicoSHA2/master/LICENSE",
+    "sha256": "6c30eb1f37554ec4199cb82a8c86d9e7a852da78a757832bebb03ac9ddc44ff1"
+  },
+  "sqlite3.c": {
+    "url": "https://www.sqlite.org/2024/sqlite-amalgamation-3460100.zip",
+    "sha256": "6c35bc5f7f85eac9c49928bacbb02bb694b547aabf69197e058cca245ad80e83"
+  },
+  "sqlite3.h": {
+    "url": "https://www.sqlite.org/2024/sqlite-amalgamation-3460100.zip",
+    "sha256": "89b62c671c5964e137409ce034941b7b05a3af2c9875aba41f47f9483d0c2515"
+  }
+}

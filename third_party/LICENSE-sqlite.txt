@@ -1,0 +1,2 @@
+SQLite is in the public domain. See https://www.sqlite.org/copyright.html
+Version included: 3.46.1 (2024).

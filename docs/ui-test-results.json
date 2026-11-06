@@ -1,0 +1,132 @@
+{
+  "environment": "JSDOM 26.1.0 / Node v24.22.1",
+  "visual_browser_test": "NOT_RUN: managed preview daemon unavailable",
+  "passed": 31,
+  "failed": 0,
+  "cases": [
+    {
+      "name": "未登录显示中文登录界面",
+      "result": "PASS"
+    },
+    {
+      "name": "学生通过界面登录并显示工作台",
+      "result": "PASS"
+    },
+    {
+      "name": "课题大厅显示真实课题",
+      "result": "PASS"
+    },
+    {
+      "name": "搜索后显示空结果",
+      "result": "PASS"
+    },
+    {
+      "name": "课题详情显示研究要求",
+      "result": "PASS"
+    },
+    {
+      "name": "学生通过界面提交选题申请",
+      "result": "PASS"
+    },
+    {
+      "name": "学生通过界面撤回待审申请",
+      "result": "PASS"
+    },
+    {
+      "name": "教师通过界面确认指导关系",
+      "result": "PASS"
+    },
+    {
+      "name": "教师通过界面发布课题",
+      "result": "PASS"
+    },
+    {
+      "name": "教师材料对话框含授权下载入口",
+      "result": "PASS"
+    },
+    {
+      "name": "教师通过界面审核开题报告",
+      "result": "PASS"
+    },
+    {
+      "name": "教师通过界面审核论文",
+      "result": "PASS"
+    },
+    {
+      "name": "成绩预览实时计算为 89.6",
+      "result": "PASS"
+    },
+    {
+      "name": "教师通过界面保存成绩",
+      "result": "PASS"
+    },
+    {
+      "name": "学生界面显示已保存的最终成绩",
+      "result": "PASS"
+    },
+    {
+      "name": "归档后的材料上传按钮禁用",
+      "result": "PASS"
+    },
+    {
+      "name": "修改密码对话框可打开",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 overview",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 topics",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 progress",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 materials",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 grades",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 users",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 settings",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 notices",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员页面可渲染 logs",
+      "result": "PASS"
+    },
+    {
+      "name": "阶段设置读取有效日期",
+      "result": "PASS"
+    },
+    {
+      "name": "公告保存后以文本呈现 HTML 内容",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员通过界面创建用户",
+      "result": "PASS"
+    },
+    {
+      "name": "管理员通过界面停用用户",
+      "result": "PASS"
+    },
+    {
+      "name": "所有界面脚本无未捕获错误",
+      "result": "PASS"
+    }
+  ]
+}
